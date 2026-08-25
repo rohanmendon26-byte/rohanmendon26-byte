@@ -57,7 +57,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
 <h3 align="center">🔗 URL Shortener</h3>
 
 <p align="center">
-  <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
+  <img src="./assets/url-shortener.png" width="100%" alt="URL Shortener" />
 </p>
 
 <p>
@@ -152,19 +152,27 @@ A full-stack URL shortening application that converts long URLs into short, shar
 
 <td width="50%" valign="top">
 
-<h3 align="center">📂 More Projects</h3>
+<h3 align="center">🌐 Developer Portfolio</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="80" alt="GitHub" />
+  <img src="./assets/portfolio.png" width="100%" alt="Developer Portfolio" />
+</p>
+
+<p>
+A personal developer portfolio showcasing my projects, technical skills, DSA journey and development experience.
 </p>
 
 <p align="center">
-Explore my other projects, experiments and coding work on GitHub.
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rohanmendon26-byte?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/rohanmendon26-byte/Portfolio">
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://portfolio-ten-psi-74.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
 
@@ -244,7 +252,10 @@ Explore my other projects, experiments and coding work on GitHub.
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img
+    src="https://skillicons.dev/icons?i=python&theme=dark"
+    alt="Python"
+  />
 </p>
 
 <p align="center">
