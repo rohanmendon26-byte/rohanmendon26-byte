@@ -201,10 +201,20 @@ More projects and experiments are available on my GitHub profile.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmendon26-byte&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmendon26-byte&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
