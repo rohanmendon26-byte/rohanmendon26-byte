@@ -79,11 +79,11 @@ A full-stack password management application built with React, Node.js, Express 
 </p>
 
 <p align="center">
-  <a href="YOUR_PASSWORD_MANAGER_REPO_URL">
+  <a href="https://github.com/rohanmendon26-byte/Password-Manager">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_PASSWORD_MANAGER_LIVE_URL">
+  <a href="https://password-manager-df75-xi.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
@@ -107,11 +107,11 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
 </p>
 
 <p align="center">
-  <a href="YOUR_GETMEACHAI_REPO_URL">
+  <a href="https://github.com/rohanmendon26-byte/GetMeAChai">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_GETMEACHAI_LIVE_URL">
+  <a href="https://get-me-a-chai-ecru.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
@@ -124,26 +124,26 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔗 Link Forge</h3>
+<h3 align="center">🔗 URL Shortener</h3>
 
 <p align="center">
-  <img src="./assets/link-forge.png" width="100%" alt="Link Forge" />
+  <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
 </p>
 
 <p>
-A modern link management platform for creating, organizing and sharing links through a centralized interface.
+A full-stack URL shortening application that converts long URLs into short, shareable links through a simple and modern interface.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINK_FORGE_REPO_URL">
+  <a href="https://github.com/rohanmendon26-byte/URL-Shortener">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINK_FORGE_LIVE_URL">
+  <a href="https://url-shortener-coral-nine.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
@@ -261,7 +261,7 @@ Explore my other projects, experiments and coding work on GitHub.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rohan-mendon-4115b0337/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
