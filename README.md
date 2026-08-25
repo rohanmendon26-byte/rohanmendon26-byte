@@ -59,73 +59,123 @@ I'm a Computer Science Engineering student passionate about building projects, s
 
 ## 🚀 Featured Projects
 
-### 🔐 Password Manager
+<table>
+<tr>
 
-> A full-stack password management application built for securely managing passwords.
+<td width="50%" valign="top">
 
-**Tech Stack:** React • Node.js • Express • MongoDB
+<h3 align="center">🔐 Password Manager</h3>
 
-**Features:**
-
-- 🔐 Password storage
-- 📦 CRUD operations
-- 🗄️ MongoDB database
-- 🌐 Full-stack architecture
+<p align="center">
+  <img src="./assets/password-manager.png" width="100%" alt="Password Manager" />
+</p>
 
 <p>
+A full-stack password management application built with React, Node.js, Express and MongoDB.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
   <a href="YOUR_PASSWORD_MANAGER_REPO_URL">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_PASSWORD_MANAGER_LIVE_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
 
----
+</td>
 
-### ☕ GetMeAChai
+<td width="50%" valign="top">
 
-> A creator-support platform inspired by Patreon.
+<h3 align="center">☕ GetMeAChai</h3>
 
-**Tech Stack:** Next.js • MongoDB • NextAuth • Cloudinary
-
-**Features:**
-
-- 👤 Authentication
-- ☕ Creator support
-- 📸 Image uploads
-- 🗄️ MongoDB integration
+<p align="center">
+  <img src="./assets/getmeachai.png" width="100%" alt="GetMeAChai" />
+</p>
 
 <p>
+A creator-support platform inspired by Patreon, featuring authentication, creator profiles, posts, tiers and image uploads.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs" />
+</p>
+
+<p align="center">
   <a href="YOUR_GETMEACHAI_REPO_URL">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_GETMEACHAI_LIVE_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
 
----
+</td>
 
-### 🎵 Spotify Clone
+</tr>
 
-> A Spotify-inspired responsive web interface.
+<tr>
 
-**Tech Stack:** HTML • CSS • JavaScript
+<td width="50%" valign="top">
+
+<h3 align="center">🎵 Spotify Clone</h3>
+
+<p align="center">
+  <img src="./assets/spotify.png" width="100%" alt="Spotify Clone" />
+</p>
 
 <p>
+A responsive Spotify-inspired web interface built using HTML, CSS and JavaScript.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
   <a href="YOUR_SPOTIFY_REPO_URL">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_SPOTIFY_LIVE_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
 
----
+</td>
 
-### 🎬 Netflix Clone
+<td width="50%" valign="top">
 
-> A Netflix-inspired responsive landing page.
+<h3 align="center">🎬 Netflix Clone</h3>
 
-**Tech Stack:** HTML • CSS • JavaScript
+<p align="center">
+  <img src="./assets/netflix.png" width="100%" alt="Netflix Clone" />
+</p>
 
 <p>
+A responsive Netflix-inspired landing page focused on recreating a modern streaming platform interface.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
   <a href="YOUR_NETFLIX_REPO_URL">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_NETFLIX_LIVE_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -158,9 +208,9 @@ I'm a Computer Science Engineering student passionate about building projects, s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmendon26-byte&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmendon26-byte&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmendon26-byte&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmendon26-byte&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -168,7 +218,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohanmendon26-byte&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=rohanmendon26-byte&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -176,7 +226,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmendon26-byte/rohanmendon26-byte/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rohanmendon26-byte/rohanmendon26-byte/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -184,7 +234,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
 <p align="center">
