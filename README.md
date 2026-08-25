@@ -127,7 +127,7 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
 <h3 align="center">🔗 URL Shortener</h3>
 
 <p align="center">
-  <img src="./assets/url-shortener.png" width="100%" alt="URL Shortener" />
+  <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
 </p>
 
 <p>
