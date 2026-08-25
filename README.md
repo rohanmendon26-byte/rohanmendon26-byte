@@ -152,14 +152,14 @@ A modern link management platform for creating, organizing and sharing links thr
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 More Projects</h3>
+<h3 align="center">📂 More Projects</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="80" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="80" alt="GitHub" />
 </p>
 
 <p align="center">
-More projects and experiments are available on my GitHub profile.
+Explore my other projects, experiments and coding work on GitHub.
 </p>
 
 <p align="center">
@@ -172,6 +172,8 @@ More projects and experiments are available on my GitHub profile.
 
 </tr>
 </table>
+
+---
 
 ## 🏆 Coding Profiles
 
@@ -201,8 +203,6 @@ More projects and experiments are available on my GitHub profile.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     src="./profile/stats.svg"
@@ -222,7 +222,10 @@ More projects and experiments are available on my GitHub profile.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohanmendon26-byte&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=rohanmendon26-byte&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -230,7 +233,10 @@ More projects and experiments are available on my GitHub profile.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmendon26-byte/rohanmendon26-byte/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/rohanmendon26-byte/rohanmendon26-byte/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
@@ -238,7 +244,7 @@ More projects and experiments are available on my GitHub profile.
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 </p>
 
 <p align="center">
