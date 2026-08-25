@@ -62,3 +62,83 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohanmendon26-byte/rohanmendon26-byte/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+## 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="[YOUR_LEETCODE_PROFILE_URL](https://leetcode.com/u/Rohan_mendon117/)">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<p align="center">
+
+🔥 LeetCode 50 Days Badge  
+💻 Solving DSA problems in C++  
+🧠 Practicing Algorithms & Data Structures  
+
+</p>
+
+<a href="[YOUR_GFG_PROFILE_URL](https://www.geeksforgeeks.org/profile/rohanme1mbd)">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="[YOUR_CODING_NINJAS_PROFILE_URL](https://www.naukri.com/code360/profile/AlgoRohan)">
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
+</a>
+
+</p>
+
+
+## 🚀 Featured Projects
+
+### 🔐 Password Manager
+
+> A full-stack password management application.
+
+**Tech Stack:** React • Node.js • Express • MongoDB
+
+**Features:**
+- 🔐 Password storage
+- 📦 CRUD operations
+- 🗄️ MongoDB database
+- 🌐 Full-stack architecture
+
+[🔗 View Project](YOUR_REPOSITORY_URL)
+
+---
+
+### ☕ GetMeAChai
+
+> A creator-support platform inspired by Patreon.
+
+**Tech Stack:** Next.js • MongoDB • NextAuth • Cloudinary
+
+**Features:**
+- 👤 Authentication
+- ☕ Creator support
+- 📸 Image uploads
+- 🗄️ MongoDB integration
+
+[🔗 View Project](YOUR_REPOSITORY_URL)
+
+---
+
+### 🎵 Spotify Clone
+
+> A Spotify-inspired web interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+[🔗 View Project](YOUR_REPOSITORY_URL)
+
+---
+
+### 🎬 Netflix Clone
+
+> A Netflix-inspired responsive landing page.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+[🔗 View Project](YOUR_REPOSITORY_URL)
