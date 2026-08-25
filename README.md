@@ -82,6 +82,7 @@ A full-stack password management application built with React, Node.js, Express 
   <a href="YOUR_PASSWORD_MANAGER_REPO_URL">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="YOUR_PASSWORD_MANAGER_LIVE_URL">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
@@ -109,6 +110,7 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
   <a href="YOUR_GETMEACHAI_REPO_URL">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="YOUR_GETMEACHAI_LIVE_URL">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
@@ -122,25 +124,26 @@ A creator-support platform inspired by Patreon, featuring authentication, creato
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎵 Spotify Clone</h3>
+<h3 align="center">🔗 Link Forge</h3>
 
 <p align="center">
-  <img src="./assets/spotify.png" width="100%" alt="Spotify Clone" />
+  <img src="./assets/link-forge.png" width="100%" alt="Link Forge" />
 </p>
 
 <p>
-A responsive Spotify-inspired web interface built using HTML, CSS and JavaScript.
+A modern link management platform for creating, organizing and sharing links through a centralized interface.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
 <p align="center">
-  <a href="YOUR_SPOTIFY_REPO_URL">
+  <a href="YOUR_LINK_FORGE_REPO_URL">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_SPOTIFY_LIVE_URL">
+
+  <a href="YOUR_LINK_FORGE_LIVE_URL">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
   </a>
 </p>
@@ -149,26 +152,19 @@ A responsive Spotify-inspired web interface built using HTML, CSS and JavaScript
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎬 Netflix Clone</h3>
+<h3 align="center">📊 More Projects</h3>
 
 <p align="center">
-  <img src="./assets/netflix.png" width="100%" alt="Netflix Clone" />
-</p>
-
-<p>
-A responsive Netflix-inspired landing page focused on recreating a modern streaming platform interface.
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="80" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+More projects and experiments are available on my GitHub profile.
 </p>
 
 <p align="center">
-  <a href="YOUR_NETFLIX_REPO_URL">
-    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_NETFLIX_LIVE_URL">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
+  <a href="https://github.com/rohanmendon26-byte?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -176,8 +172,6 @@ A responsive Netflix-inspired landing page focused on recreating a modern stream
 
 </tr>
 </table>
-
----
 
 ## 🏆 Coding Profiles
 
