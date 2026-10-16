@@ -151,18 +151,29 @@ A personal developer portfolio showcasing my projects, technical skills, DSA jou
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 More Projects Coming Soon</h3>
+<h3 align="center">☕ GetMeAChai</h3>
 
 <p align="center">
-  <img src="https://placehold.co/600x300/1e293b/ffffff?text=More+Projects+Coming+Soon" width="100%" alt="More projects coming soon" />
+  <a href="https://get-me-a-chai-ecru.vercel.app/">
+    <img src="./assets/getmeachai.png" width="100%" alt="GetMeAChai" />
+  </a>
 </p>
 
 <p>
-Continuously building projects to solve real-world problems and strengthen my software development skills.
+A full-stack creator-support platform inspired by Patreon, allowing creators to build profiles, share posts, and receive support from their supporters.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind&theme=dark" alt="Technologies used" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rohanmendon26-byte/GetMeAChai">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  <a href="https://get-me-a-chai-ecru.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Live Demo" />
+  </a>
 </p>
 
 </td>
