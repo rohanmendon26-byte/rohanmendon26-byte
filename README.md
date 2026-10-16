@@ -77,7 +77,7 @@ A senior citizen assistance and dispatch platform that helps manage assistance r
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb" />
+  <img src="./profile/Agronex.png" />
 </p>
 
 <p align="center">
