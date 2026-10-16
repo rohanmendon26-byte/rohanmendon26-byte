@@ -59,48 +59,45 @@ I'm a Computer Science Engineering student passionate about building projects, s
 
 # 🚀 Featured Projects
 
-<table>
- <tr>
 
+<table>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🌾 AgroNex Sahayak</h3>
 
 <p align="center">
   <a href="https://agronex-sahayak.vercel.app/">
-    <img src="https://placehold.co/600x300/14532d/ffffff?text=AgroNex+Sahayak" width="100%" alt="AgroNex Sahayak" />
+    <img src="./profile/Agronex.png" width="100%" alt="AgroNex Sahayak" />
   </a>
 </p>
 
 <p>
-A senior citizen assistance and dispatch platform that helps manage assistance requests, prioritize emergencies, and coordinate volunteers for timely support.
+A senior citizen assistance and dispatch platform that manages assistance requests, prioritizes emergencies, and helps coordinate volunteers for timely support.
 </p>
 
 <p align="center">
-  <img src="./profile/Agronex.png" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb&theme=dark" alt="Technologies used" />
 </p>
 
 <p align="center">
   <a href="https://agronex-sahayak.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/rohanmendon26-byte/agronex-sahayak-backend">
-    <img src="https://img.shields.io/badge/💻%20Backend%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend GitHub" />
+    <img src="https://img.shields.io/badge/💻_Backend_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend GitHub" />
   </a>
 </p>
 
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🔗 URL Shortener</h3>
 
 <p align="center">
-  <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
+  <a href="https://url-shortener-coral-nine.vercel.app/">
+    <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
+  </a>
 </p>
 
 <p>
@@ -108,49 +105,67 @@ A full-stack URL shortening application that converts long URLs into short, shar
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb&theme=dark" alt="Technologies used" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rohanmendon26-byte/URL-Shortener">
-    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://url-shortener-coral-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🌐 Developer Portfolio</h3>
 
 <p align="center">
-  <img src="./assets/portfolio.png" width="100%" alt="Developer Portfolio" />
+  <a href="https://portfolio-ten-psi-74.vercel.app/">
+    <img src="./assets/portfolio.png" width="100%" alt="Developer Portfolio" />
+  </a>
 </p>
 
 <p>
-A personal developer portfolio showcasing my projects, technical skills, DSA journey and development experience.
+A personal developer portfolio showcasing my projects, technical skills, DSA journey, and development experience.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind&theme=dark" alt="Technologies used" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rohanmendon26-byte/Portfolio">
-    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://portfolio-ten-psi-74.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
 
 </td>
+<td width="50%" valign="top">
 
+<h3 align="center">🚀 More Projects Coming Soon</h3>
+
+<p align="center">
+  <img src="https://placehold.co/600x300/1e293b/ffffff?text=More+Projects+Coming+Soon" width="100%" alt="More projects coming soon" />
+</p>
+
+<p>
+Continuously building projects to solve real-world problems and strengthen my software development skills.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="Programming languages" />
+</p>
+
+</td>
 </tr>
 </table>
 
