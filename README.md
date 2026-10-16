@@ -60,31 +60,32 @@ I'm a Computer Science Engineering student passionate about building projects, s
 # 🚀 Featured Projects
 
 <table>
-<tr>
+ <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 Password Manager</h3>
+<h3 align="center">🌾 AgroNex Sahayak</h3>
 
 <p align="center">
-  <img src="./assets/password-manager.png" width="100%" alt="Password Manager" />
+  <a href="https://agronex-sahayak.vercel.app/">
+    <img src="https://placehold.co/600x300/14532d/ffffff?text=AgroNex+Sahayak" width="100%" alt="AgroNex Sahayak" />
+  </a>
 </p>
 
 <p>
-A full-stack password management application built with React, Node.js, Express and MongoDB.
+A senior citizen assistance and dispatch platform that helps manage assistance requests, prioritize emergencies, and coordinate volunteers for timely support.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rohanmendon26-byte/Password-Manager">
-    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://agronex-sahayak.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
-
-  <a href="https://password-manager-df75-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
+  <a href="https://github.com/rohanmendon26-byte/agronex-sahayak-backend">
+    <img src="https://img.shields.io/badge/💻%20Backend%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend GitHub" />
   </a>
 </p>
 
@@ -92,28 +93,18 @@ A full-stack password management application built with React, Node.js, Express 
 
 <td width="50%" valign="top">
 
-<h3 align="center">☕ GetMeAChai</h3>
+<h3 align="center">🚀 More Projects Coming Soon</h3>
 
 <p align="center">
-  <img src="./assets/getmeachai.png" width="100%" alt="GetMeAChai" />
+  <img src="https://placehold.co/600x300/1e293b/ffffff?text=More+Projects+Coming+Soon" width="100%" alt="More projects coming soon" />
 </p>
 
 <p>
-A creator-support platform inspired by Patreon, featuring authentication, creator profiles, posts, tiers and image uploads.
+Continuously building projects to solve real-world problems and improve my software development skills.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rohanmendon26-byte/GetMeAChai">
-    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://get-me-a-chai-ecru.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs" />
 </p>
 
 </td>
