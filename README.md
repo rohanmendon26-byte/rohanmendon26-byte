@@ -68,7 +68,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 
 <p align="center">
   <a href="https://agronex-sahayak.vercel.app/">
-    <img src="./profile/Agronex.png" width="100%" alt="AgroNex Sahayak" />
+    <img src="Agronex.png" width="100%" alt="AgroNex Sahayak" />
   </a>
 </p>
 
