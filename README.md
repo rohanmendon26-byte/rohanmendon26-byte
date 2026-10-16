@@ -91,24 +91,6 @@ A senior citizen assistance and dispatch platform that helps manage assistance r
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 More Projects Coming Soon</h3>
-
-<p align="center">
-  <img src="https://placehold.co/600x300/1e293b/ffffff?text=More+Projects+Coming+Soon" width="100%" alt="More projects coming soon" />
-</p>
-
-<p>
-Continuously building projects to solve real-world problems and improve my software development skills.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs" />
-</p>
-
-</td>
-
 </tr>
 
 <tr>
