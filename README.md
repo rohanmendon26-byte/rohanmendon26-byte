@@ -92,27 +92,27 @@ A senior citizen assistance and dispatch platform that manages assistance reques
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔗 URL Shortener</h3>
+<h3 align="center">🦉 Duolingo Clone</h3>
 
 <p align="center">
-  <a href="https://url-shortener-coral-nine.vercel.app/">
-    <img src="./assets/link-forge.png" width="100%" alt="URL Shortener" />
+  <a href="YOUR_LIVE_DEMO_URL">
+    <img src="./assets/duolingo.png" width="100%" alt="Duolingo Clone" />
   </a>
 </p>
 
 <p>
-A full-stack URL shortening application that converts long URLs into short, shareable links through a simple and modern interface.
+A language-learning platform inspired by Duolingo, with interactive lessons, quizzes, and progress tracking to make learning engaging.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb&theme=dark" alt="Technologies used" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,tailwind&theme=dark" alt="Technologies used" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rohanmendon26-byte/URL-Shortener">
+  <a href="https://github.com/rohanmendon26-byte/YOUR_REPO_NAME">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://url-shortener-coral-nine.vercel.app/">
+  <a href="YOUR_LIVE_DEMO_URL">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
