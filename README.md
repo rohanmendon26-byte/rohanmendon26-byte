@@ -96,7 +96,7 @@ A senior citizen assistance and dispatch platform that manages assistance reques
 
 <p align="center">
   <a href="YOUR_LIVE_DEMO_URL">
-    <img src="./assets/duolingo.png" width="100%" alt="Duolingo Clone" />
+    <img src="./assets/dulingo.png" width="100%" alt="Duolingo Clone" />
   </a>
 </p>
 
